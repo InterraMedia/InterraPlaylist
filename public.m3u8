@@ -1,1 +1,15 @@
-test
+#EXTM3U url-tvg="https://rostelekom-tv.xyz/xmltv/bJ1WKhdn0P60YSQ0.xml" x-tvg-url="https://rostelekom-tv.xyz/xmltv/bJ1WKhdn0P60YSQ0.xml"
+#EXTINF:-1 tvg-id="detvoraplushd" tvg-name="ДетвораПлюс HD" tvg-logo="https://cdn.rostelekom-tv.xyz/picons/89fe214904639432.png" group-title="Детские",ДетвораПлюс HD
+https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8
+#EXTINF:-1 tvg-id="velvetmenthd" tvg-name="Velvet. Ментовские Сериалы HD" tvg-logo="https://cdn.rostelekom-tv.xyz/picons/d385074b6255d55c.png" group-title="Кино и сериалы",Velvet. Ментовские Сериалы HD
+https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8
+#EXTINF:-1 tvg-id="velvetsovetskoehd" tvg-name="Velvet. Советское кино HD" tvg-logo="https://cdn.rostelekom-tv.xyz/picons/7129effd35bb63a1.png" group-title="Кино и сериалы",Velvet. Советское кино HD
+https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8
+#EXTINF:-1 tvg-id="velvetzolotohd" tvg-name="Velvet. Золотая коллекция HD" tvg-logo="https://cdn.rostelekom-tv.xyz/picons/1d811cf354275a47.png" group-title="Кино и сериалы",Velvet. Золотая коллекция HD
+https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8
+#EXTINF:-1 tvg-id="velveteurkinohd" tvg-name="Velvet. Европейское кино HD" tvg-logo="https://cdn.rostelekom-tv.xyz/picons/e4351d9b387c625d.png" group-title="Кино и сериалы",Velvet. Европейское кино HD
+https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8
+#EXTINF:-1 tvg-id="serialyhityhd" tvg-name="Velvet. Сериалы Хиты HD" tvg-logo="https://cdn.rostelekom-tv.xyz/picons/e5f4f860cf5111be.png" group-title="Кино и сериалы",Velvet. Сериалы Хиты HD
+https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8
+#EXTINF:-1 tvg-id="velvetsvatyhd" tvg-name="Velvet. Сваты HD" tvg-logo="https://cdn.rostelekom-tv.xyz/picons/5c274519467ec9c5.png" group-title="Фильмовые",Velvet. Сваты HD
+https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8
